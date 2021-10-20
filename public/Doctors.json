@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "DR.AL-MUID",
+        "specialist": "Radiology",
+        "qualifications": "MBBS,MCPS,FCPS",
+        "img": "https://image.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-scrubs-making-daily-errands-clinic-listening-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg",
+        "description": "He is a  specialize in diagnosing and treating injuries and diseases using medical imaging (radiology) procedures (exams/tests) such as X-rays, computed tomography (CT), nuclear medicine etc."
+    },
+    {
+        "id": 2,
+        "name": "DR.Farhana Karim",
+        "specialist": "Neurosurgery",
+        "qualifications": "MBBS, BSH, MS",
+        "img": "https://image.freepik.com/free-photo/healthcare-workers-prevent-virus-insurance-medicine-concept-smiling-attractive-female-doctor-nurse-blue-scrubs-pointing-fingers-left-show-patients-advertisement-important-info_1258-57267.jpg",
+        "description": "He is a specializes in the diagnosis and surgical treatment of disorders of the central and peripheral nervous system including congenital anomalies, tumorsinfections of the brain or spine, stroke etc."
+    },
+    {
+        "id": 3,
+        "name": "DR.MASHUD PARVEZ",
+        "specialist": "Pathology",
+        "qualifications": "MBBS, FCPS",
+        "img": "https://image.freepik.com/free-photo/healthcare-workers-medical-insurance-clinic-lab-covid-19-concept-cheerful-relieved-handsome-doctor-reveal-good-results-test-screening-smiling-patient-point-clipboard_1258-58598.jpg",
+        "description": "He is a specialize in specific form of pathology that evaluates surgically removed tissue."
+    },
+    {
+        "id": 4,
+        "name": "DR.Hasan",
+        "specialist": "Cardiac Surgery",
+        "qualifications": "MBBS,MS",
+        "img": "https://image.freepik.com/free-photo/healthcare-workers-medicine-covid-19-pandemic-self-quarantine-concept-smiling-attractive-doctor-scrubs-glasses-stethoscope-neck-cross-arms-chest-ready-help-patients_1258-58772.jpg",
+        "description": "He is a  specialize in diagnosing and treating diseases or conditions of the heart and blood vessels—the cardiovascular system. "
+    },
+    {
+        "id": 5,
+        "name": "DR.Rasida Islam",
+        "specialist": "Urology",
+        "qualifications": "MBBS, FCPS",
+        "img": "https://image.freepik.com/free-photo/covid-19-preventing-virus-health-healthcare-workers-quarantine-concept-professional-female-nurse-doctor-blue-scrubs-medical-mask-gloves-writing-down-patient-info-using-clipboard_1258-57303.jpg",
+        "description": "He is a  specializes in diseases of the urinary tract and the male reproductive system."
+    },
+    {
+        "id": 6,
+        "name": "DR.Zarin Akter",
+        "specialist": "Otolaryngology",
+        "qualifications": "MBBS, DLO",
+        "img": "https://image.freepik.com/free-photo/covid-19-preventing-virus-healthcare-workers-concept-professional-doctor-personal-protective-equipment-medical-mask-pointing-test-tube-with-coronavirus-vaccine-patient-samples_1258-57403.jpg",
+        "description": "He is a specialize in disorders of the head and neck, particularly those disorders related to the ears, nose and throat."
+    },
+    {
+        "id": 7,
+        "name": "DR.Sadia Islam",
+        "specialist": "Surgical Oncology",
+        "qualifications": "MBBS, FCPS",
+        "img": "https://image.freepik.com/free-photo/medical-workers-covid-pandemic-coronavirus-concept-smiling-female-doctor-physician-face-mask-rubb_1258-63407.jpg",
+        "description": "He is a specialize in  that is concerned with the surgical treatment and removal of tumors."
+    },
+    {
+        "id": 8,
+        "name": "DR.Siam",
+        "specialist": "Neuro Surgery",
+        "qualifications": "MBBS, BSH, MS",
+        "img": "https://image.freepik.com/free-photo/afro-american-doctor-with-stethoscope-showing-okay-gesture-isolated-gray-background_231208-2224.jpg",
+        "description": "He is a specializes in the diagnosis and surgical treatment of disorders of the central and peripheral nervous system including congenital anomalies, trauma etc."
+    },
+    {
+        "id": 9,
+        "name": "DR.Eunus",
+        "specialist": "Dentist",
+        "qualifications": "BDS, BSH, MS",
+        "img": "https://media.istockphoto.com/photos/male-medical-professional-is-confident-in-studio-picture-id1201439096?b=1&k=20&m=1201439096&s=170667a&w=0&h=YXdCLIT-e-reXi8xY-iUkg1XR4_C6TSXrljaHiFmhEU=",
+        "description": "He is a specializes in the diagnosis and surgical treatment of disorders of the central and peripheral nervous system including congenital anomalies, trauma etc."
+    }
+]

@@ -1,0 +1,16 @@
+.log-in-bg{
+    background-color: #e0c9cc;
+ }
+ .login-form{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border-right: 50px;
+     background-color: white;
+ 
+     box-shadow: 5px 5px 5px grey;
+     margin: 20px;
+     margin-bottom: 50px;
+     
+   
+ }

@@ -1,0 +1,26 @@
+.carouserl-img{
+    height: 500px;
+}
+/* .carousal-item{
+    color:  black;
+    padding-bottom: 100px;
+    align-items: flex-start;
+    margin-right: 500px;
+} */
+
+
+.img{
+    height: 700px;
+}
+
+.captions{
+    color: #004861;
+}
+
+
+@media only screen and (max-width: 425px){
+   .head-img{
+       width: 75%;
+       height: 75%;
+   }
+ }
