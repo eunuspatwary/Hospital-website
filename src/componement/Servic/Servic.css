@@ -1,7 +1,7 @@
 
 .item{
     /* margin-left: 50px; */
-    background-color: #DCDCDC;
+    background-color: #ebd1e7;
     padding: 2%;
    
     
@@ -14,9 +14,9 @@
 
 .item:hover{
     position: relative;
-    background-color: #fdc8d1;
+    background-color: #a5cfc8;
     padding: 10%;
-    box-shadow: 10px 10px 5px rgb(187, 183, 183);
+    box-shadow: 10px 10px 5px rgb(136, 135, 135);
 }
 .btn{
     background-color: rgb(228, 170, 25);
@@ -25,7 +25,7 @@
     font-weight: 700;
 }
 .item:hover .btn{
-background-color: rgb(224, 92, 69);
+background-color: rgb(155, 49, 31);
 width: 150px;
 
 }

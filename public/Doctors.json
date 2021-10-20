@@ -4,7 +4,7 @@
         "name": "DR.AL-MUID",
         "specialist": "Radiology",
         "qualifications": "MBBS,MCPS,FCPS",
-        "img": "https://image.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-scrubs-making-daily-errands-clinic-listening-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg",
+        "img": "https://image.freepik.com/free-photo/portrait-brunette-young-medical-doctor-with-stethoscope-smiling-standing-wth-arms-crossed-isolated-white-wall_171337-99764.jpg",
         "description": "He is a  specialize in diagnosing and treating injuries and diseases using medical imaging (radiology) procedures (exams/tests) such as X-rays, computed tomography (CT), nuclear medicine etc."
     },
     {
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "name": "DR.MASHUD PARVEZ",
+        "name": "DR.Imad hassan",
         "specialist": "Pathology",
         "qualifications": "MBBS, FCPS",
         "img": "https://image.freepik.com/free-photo/healthcare-workers-medical-insurance-clinic-lab-covid-19-concept-cheerful-relieved-handsome-doctor-reveal-good-results-test-screening-smiling-patient-point-clipboard_1258-58598.jpg",
@@ -25,15 +25,15 @@
     },
     {
         "id": 4,
-        "name": "DR.Hasan",
+        "name": "DR.Arif khan",
         "specialist": "Cardiac Surgery",
         "qualifications": "MBBS,MS",
-        "img": "https://image.freepik.com/free-photo/healthcare-workers-medicine-covid-19-pandemic-self-quarantine-concept-smiling-attractive-doctor-scrubs-glasses-stethoscope-neck-cross-arms-chest-ready-help-patients_1258-58772.jpg",
+        "img": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg",
         "description": "He is a  specialize in diagnosing and treating diseases or conditions of the heart and blood vessels—the cardiovascular system. "
     },
     {
         "id": 5,
-        "name": "DR.Rasida Islam",
+        "name": "DR.Pahmida tabassum",
         "specialist": "Urology",
         "qualifications": "MBBS, FCPS",
         "img": "https://image.freepik.com/free-photo/covid-19-preventing-virus-health-healthcare-workers-quarantine-concept-professional-female-nurse-doctor-blue-scrubs-medical-mask-gloves-writing-down-patient-info-using-clipboard_1258-57303.jpg",
@@ -41,18 +41,18 @@
     },
     {
         "id": 6,
-        "name": "DR.Zarin Akter",
+        "name": "DR.Nusrat Jahan",
         "specialist": "Otolaryngology",
         "qualifications": "MBBS, DLO",
-        "img": "https://image.freepik.com/free-photo/covid-19-preventing-virus-healthcare-workers-concept-professional-doctor-personal-protective-equipment-medical-mask-pointing-test-tube-with-coronavirus-vaccine-patient-samples_1258-57403.jpg",
+        "img": "https://as1.ftcdn.net/v2/jpg/02/82/72/12/1000_F_282721299_Wi4o04w4kGluqFyJWcBpKJZvtA8NHJ6d.jpg",
         "description": "He is a specialize in disorders of the head and neck, particularly those disorders related to the ears, nose and throat."
     },
     {
         "id": 7,
-        "name": "DR.Sadia Islam",
+        "name": "DR.Sayed Kabir",
         "specialist": "Surgical Oncology",
         "qualifications": "MBBS, FCPS",
-        "img": "https://image.freepik.com/free-photo/medical-workers-covid-pandemic-coronavirus-concept-smiling-female-doctor-physician-face-mask-rubb_1258-63407.jpg",
+        "img": "https://as2.ftcdn.net/v2/jpg/02/54/86/89/500_F_254868906_s7zCPQh15mQsgW5bxh4ZNvnIup3TMKo5.jpg",
         "description": "He is a specialize in  that is concerned with the surgical treatment and removal of tumors."
     },
     {
@@ -60,7 +60,7 @@
         "name": "DR.Siam",
         "specialist": "Neuro Surgery",
         "qualifications": "MBBS, BSH, MS",
-        "img": "https://image.freepik.com/free-photo/afro-american-doctor-with-stethoscope-showing-okay-gesture-isolated-gray-background_231208-2224.jpg",
+        "img": "https://as2.ftcdn.net/v2/jpg/03/20/52/31/1000_F_320523164_tx7Rdd7I2XDTvvKfz2oRuRpKOPE5z0ni.jpg",
         "description": "He is a specializes in the diagnosis and surgical treatment of disorders of the central and peripheral nervous system including congenital anomalies, trauma etc."
     },
     {
